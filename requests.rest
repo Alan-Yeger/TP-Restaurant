@@ -2,4 +2,4 @@ GET http://localhost:4000/ HTTP/1.1
 
 ###
 
-GET http://localhost:4000/users HTTP/1.1
+GET http://localhost:4000/menu:1 HTTP/1.1
